@@ -1,0 +1,14 @@
+{
+    "name": "darrhell/php-core",
+    "description": "PHP Core is a micro framework who contain basics things to develop a web site or an application.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Guillaume 'DarrHeLL' PARIS",
+            "email": "darrhell95@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
